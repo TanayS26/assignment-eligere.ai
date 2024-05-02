@@ -1,0 +1,29 @@
+Introduction to Database;
+
+MongoDB
+
+
+Database
+1. SQL - (stuctured query language) - tables - rows and columns - MySQL, Postgres, Cassandra
+2. NoSQL - document oriented database (objects) - MongoDB, Redis, DynamoDB
+
+
+
+
+ORM - Object Relational Mapper
+
+
+NoSQL Database
+
+
+
+// Create - post method
+// Read - get method
+// Delete - delete method
+
+// Update/Edit - put/patch
+// Password hash
+// env
+
+
+

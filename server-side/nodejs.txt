@@ -1,0 +1,38 @@
+What is Node.js ?
+Rayan Dahl
+
+Why Node.js ?
+- easy to understand
+- cost effective
+- highly scalable
+    - vertical scaling
+    - horizontal scaling
+
+
+API - Application Programming Interface
+
+- SOAP - Simple Object Access Protocol
+- REST - Representational State Transfer Protocol;
+
+
+
+
+
+
+// Schema - model
+
+// Toyota - 4 trype
+
+
+
+// MVC
+- models - to define the database schema for an entity
+- controllers - to implenet the business logic over that entity
+- views/routes - 
+
+
+
+to pass data
+// in the form of body;
+// url;
+
